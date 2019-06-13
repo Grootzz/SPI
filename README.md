@@ -1,2 +1,2 @@
 # SPI
-Using spi to exchange data，the code simulate the master's behavior of send data to slave
+Exchange data using spi, the code simulate the master's behavior of send data to slave.
